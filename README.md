@@ -5,4 +5,4 @@ Airbot F3 (v1.0 Lite) is an Acro-class flight controller based on SPRacing F3. I
 
 Would be used and tested against Keil-MDK5. Hopefully won't break on you cool ARM-GCC guys~
 
-Based on (seemingly abandoned): STM32_MPU6050lib by Harinadha: https://github.com/Harinadha/STM32_MPU6050lib
+Based on (seemingly abandoned): STM32_MPU6050lib by Harinadha: https://github.com/Harinadha/STM32_MPU6050lib, and Cleanflight's MPU6050 implementation.
